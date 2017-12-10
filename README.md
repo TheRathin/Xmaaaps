@@ -1,6 +1,6 @@
 # Xmaaps
 
-Xmaaps is an open-source web application written in React.js where all the location in the .csv file can be marked on the google map.
+Xmaaps is a web application written in React.js where all the location in the .csv file can be marked on the google map.
 
 #  Installation
 1. Download or clone the repository
