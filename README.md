@@ -1,4 +1,4 @@
-# Xmaaps
+# Xmaaaps
 
 Xmaaps is a web application written in React.js where all the location in the .csv file can be marked on the google map.
 
