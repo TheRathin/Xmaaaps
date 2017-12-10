@@ -10,12 +10,13 @@ Xmaaps is an open-source web application written in React.js where all the locat
 
 # Run
 1. run npm start
-2. Their is default Hamilton waterfall map, below it their is upload button
-3. Click upload button and select a .csv data which has Name, long and latitude of the locations
-4. You will see the table after you upload the data
-5. Select the Name, long and latitude column in order and click submit
-6. You will see the google map below the table, with all the marker
-7. Click on the marker, too see more details about the location. Which would be below the google map
+2. Make sure you run localhost:3000 or it will show authentication problem in console
+3. Their is default Hamilton waterfall map, below it their is upload button
+4. Click upload button and select a .csv data which has Name, long and latitude of the locations
+5. You will see the table after you upload the data
+6. Select the Name, long and latitude column in order and click submit
+7. You will see the google map below the table, with all the marker
+8. Click on the marker, too see more details about the location. Which would be below the google map
 
 # Data Tested
 1. [Hamiton Waterfall](http://opendata.hamilton.ca/CSV/CITY_WATERFALLS.csv)
