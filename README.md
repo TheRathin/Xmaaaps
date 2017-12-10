@@ -12,7 +12,7 @@ Xmaaps is an open-source web application written in React.js where all the locat
 1. run npm start
 2. Their is default Hamilton waterfall map, below it their is upload button
 3. Click upload button and select a .csv data which has Name, long and latitude of the locations
-4. You will the table after you upload the data
+4. You will see the table after you upload the data
 5. Select the Name, long and latitude column in order and click submit
 6. You will see the google map below the table, with all the marker
 7. Click on the marker, too see more details about the location. Which would be below the google map
@@ -25,4 +25,4 @@ Xmaaps is an open-source web application written in React.js where all the locat
 1. User can manually enter the data and make the list of the locations to be marked on the map
 2. Different type of markers can be used instead of the default
 
-# This application will be updated quite often
+# !This application will be updated quite often!
