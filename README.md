@@ -25,5 +25,3 @@ Xmaaps is a web application written in React.js where all the location in the .c
 # Coming
 1. User can manually enter the data and make the list of the locations to be marked on the map
 2. Different type of markers can be used instead of the default
-
-# !This application will be updated quite often!
