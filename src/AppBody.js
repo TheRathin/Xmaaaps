@@ -1,16 +1,13 @@
 import React, { Component } from 'react'
-import WaterfallData from './part/WaterfallData'
-import UploadLocation from './part/UploadLocation'
+import WaterfallData from './part/waterfall/WaterfallData'
 
 class AppBody extends Component {
 	render() {
 		return(
-				<div>
-					<WaterfallData/>
-					<div className="container-fluid">
-					<h2>Upload your data</h2>
-					<UploadLocation/>
-					</div>
+				<div className="container-fluid">
+				  <div className="row">
+						<WaterfallData/>
+				   </div>
 				</div>
 			)
 	}
