@@ -1,6 +1,14 @@
-# Xmaaaps
+# Xmaaaps(v0.01)
 
 Xmaaps is a web application written in React.js where all the location in the .csv file can be marked on the google map.
+
+# Updates
+1. Code optimization
+2. Implementation of material ui
+3. Redesigned the layout, giving a whole page to upload file
+4. Info filled in About section
+5. Some errors fixed
+6. New data tested
 
 #  Installation
 1. Download or clone the repository
@@ -10,7 +18,7 @@ Xmaaps is a web application written in React.js where all the location in the .c
 
 # Run
 1. run npm start
-2. Make sure you run localhost:3000 or it will show authentication problem in console
+2. Make sure you run localhost:3000 or it will show authentication problem in console / or you can use your key, put them in index.html 
 3. Their is default Hamilton waterfall map, below it their is upload button
 4. Click upload button and select a .csv data which has Name, long and latitude of the locations
 5. You will see the table after you upload the data
@@ -21,6 +29,7 @@ Xmaaps is a web application written in React.js where all the location in the .c
 # Data Tested
 1. [Hamiton Waterfall](http://opendata.hamilton.ca/CSV/CITY_WATERFALLS.csv)
 2. [Hamilton Beaches](http://opendata.hamilton.ca/CSV/BEACHES.csv)
+3. [Hamilton Arenas] (http://opendata.hamilton.ca/CSV/ARENAS.csv)
 
 # Coming
 1. User can manually enter the data and make the list of the locations to be marked on the map
